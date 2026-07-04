@@ -1,0 +1,23 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+wp-content/backup-*
+wp-content/ai1wm-backups/
+wp-content/debug.log
+wp-content/plugins/akismet/
+wp-content/plugins/hello.php
+wp-content/themes/twenty*/
+wp-content/languages/
+wp-content/updraft/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
