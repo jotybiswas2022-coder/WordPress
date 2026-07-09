@@ -153,3 +153,5 @@ Commit tracking file for sequential commits
 
 77: feat: add drag-to-reorder lists - Added drag-to-reorder functionality for list items
 
+78: refactor: migrate to TypeScript - Migrated codebase from JavaScript to TypeScript
+
