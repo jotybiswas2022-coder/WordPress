@@ -69,3 +69,5 @@ Commit tracking file for sequential commits
 
 35: feat: add batch delete functionality - Added batch delete functionality with confirmation dialog
 
+36: refactor: unify error handling middleware - Unified error handling middleware across all routes
+
