@@ -99,3 +99,5 @@ Commit tracking file for sequential commits
 
 50: feat: add data export preview - Added data export preview before final download
 
+51: chore: optimize bundle size - Optimized bundle size by removing unused imports
+
