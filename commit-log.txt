@@ -13,3 +13,5 @@ Commit tracking file for sequential commits
 
 7: fix: patch XSS vulnerability in comments - Patched a cross-site scripting vulnerability in the comments section
 
+8: feat: implement password strength meter - Implemented a password strength meter with real-time feedback
+
