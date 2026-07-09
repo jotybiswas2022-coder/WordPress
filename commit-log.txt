@@ -27,3 +27,5 @@ Commit tracking file for sequential commits
 
 14: feat: implement file upload progress bar - Implemented file upload progress bar using XMLHttpRequest
 
+15: chore: remove deprecated API endpoints - Removed deprecated API endpoints that were scheduled for removal
+
