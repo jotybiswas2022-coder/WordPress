@@ -175,3 +175,5 @@ Commit tracking file for sequential commits
 
 88: fix: correct sidebar collapse behavior - Fixed sidebar collapse behavior on narrow screens
 
+89: feat: add custom error pages - Added custom error pages with helpful messages
+
