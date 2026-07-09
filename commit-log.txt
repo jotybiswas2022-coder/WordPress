@@ -117,3 +117,5 @@ Commit tracking file for sequential commits
 
 59: feat: add rate limiting middleware - Added rate limiting middleware to prevent API abuse
 
+60: refactor: extract config constants - Extracted configuration constants into environment variables
+
