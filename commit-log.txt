@@ -123,3 +123,5 @@ Commit tracking file for sequential commits
 
 62: feat: implement user activity log - Implemented user activity log with filtering options
 
+63: chore: add PR template - Added pull request template with checklist
+
