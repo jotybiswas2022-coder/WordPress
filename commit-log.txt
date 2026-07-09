@@ -191,3 +191,5 @@ Commit tracking file for sequential commits
 
 96: refactor: simplify route definitions - Simplified route definitions using resourceful routing
 
+97: fix: resolve lazy loading issues - Fixed lazy loading issues on older browsers
+
