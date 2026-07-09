@@ -31,3 +31,5 @@ Commit tracking file for sequential commits
 
 16: fix: correct redirect after login - Fixed redirect URL not being properly passed after login
 
+17: feat: add breadcrumb navigation - Added breadcrumb navigation component with schema markup
+
