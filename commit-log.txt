@@ -195,3 +195,5 @@ Commit tracking file for sequential commits
 
 98: feat: implement two-factor auth - Implemented two-factor authentication with TOTP
 
+99: chore: update CONTRIBUTING.md - Updated CONTRIBUTING.md with detailed setup guide
+
