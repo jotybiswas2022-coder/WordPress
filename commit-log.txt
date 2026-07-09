@@ -151,3 +151,5 @@ Commit tracking file for sequential commits
 
 76: fix: correct email validation regex - Fixed email validation regex rejecting valid addresses
 
+77: feat: add drag-to-reorder lists - Added drag-to-reorder functionality for list items
+
