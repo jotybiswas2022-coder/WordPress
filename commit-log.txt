@@ -51,3 +51,5 @@ Commit tracking file for sequential commits
 
 26: feat: add notification sound toggle - Added toggle for notification sounds in user preferences
 
+27: chore: add .gitattributes file - Added .gitattributes file for consistent line endings
+
