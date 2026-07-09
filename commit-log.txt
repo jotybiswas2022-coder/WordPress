@@ -165,3 +165,5 @@ Commit tracking file for sequential commits
 
 83: feat: add export to PDF feature - Added PDF export feature with custom page layout
 
+84: refactor: optimize database indexes - Optimized database indexes for frequently queried columns
+
