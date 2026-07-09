@@ -193,3 +193,5 @@ Commit tracking file for sequential commits
 
 97: fix: resolve lazy loading issues - Fixed lazy loading issues on older browsers
 
+98: feat: implement two-factor auth - Implemented two-factor authentication with TOTP
+
