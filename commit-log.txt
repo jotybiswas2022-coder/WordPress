@@ -5,3 +5,5 @@ Commit tracking file for sequential commits
 
 3: chore: update dependency versions - Updated all third-party dependency versions to latest stable releases
 
+4: fix: resolve null reference in profile page - Fixed a null reference exception that occurred on the profile page
+
