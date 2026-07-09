@@ -113,3 +113,5 @@ Commit tracking file for sequential commits
 
 57: chore: add contribution guidelines - Added contribution guidelines for open source contributors
 
+58: fix: correct modal z-index stacking - Fixed modal z-index stacking with overlaying elements
+
