@@ -125,3 +125,5 @@ Commit tracking file for sequential commits
 
 63: chore: add PR template - Added pull request template with checklist
 
+64: fix: correct validation error messages - Fixed validation error messages not being user-friendly
+
