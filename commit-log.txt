@@ -1,3 +1,5 @@
 Commit tracking file for sequential commits
 1: fix: correct typo in login form validation - Fixed a typo in the login form validation that caused incorrect error messages
 
+2: feat: add user avatar upload support - Added support for user avatar upload with preview and cropping functionality
+
