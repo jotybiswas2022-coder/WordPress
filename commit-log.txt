@@ -11,3 +11,5 @@ Commit tracking file for sequential commits
 
 6: refactor: simplify database query logic - Simplified the database query logic by removing redundant joins
 
+7: fix: patch XSS vulnerability in comments - Patched a cross-site scripting vulnerability in the comments section
+
