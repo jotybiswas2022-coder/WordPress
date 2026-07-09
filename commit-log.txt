@@ -95,3 +95,5 @@ Commit tracking file for sequential commits
 
 48: refactor: modularize API routes - Modularized API routes for better code organization
 
+49: fix: resolve cookie expiration issue - Fixed cookie expiration not being set correctly
+
