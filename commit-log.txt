@@ -9,3 +9,5 @@ Commit tracking file for sequential commits
 
 5: feat: add dark mode toggle - Added dark mode toggle with system preference detection
 
+6: refactor: simplify database query logic - Simplified the database query logic by removing redundant joins
+
