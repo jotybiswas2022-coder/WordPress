@@ -171,3 +171,5 @@ Commit tracking file for sequential commits
 
 86: feat: implement data import wizard - Implemented data import wizard with validation steps
 
+87: chore: add codeowners file - Added CODEOWNERS file for automatic review assignments
+
