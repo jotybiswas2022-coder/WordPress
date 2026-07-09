@@ -139,3 +139,5 @@ Commit tracking file for sequential commits
 
 70: fix: correct OAuth token refresh - Fixed OAuth token refresh failing on 401 responses
 
+71: feat: add multi-language support - Added multi-language support with i18n framework
+
