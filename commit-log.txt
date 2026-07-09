@@ -167,3 +167,5 @@ Commit tracking file for sequential commits
 
 84: refactor: optimize database indexes - Optimized database indexes for frequently queried columns
 
+85: fix: resolve tab sync conflicts - Fixed tab sync conflicts in multi-tab scenarios
+
