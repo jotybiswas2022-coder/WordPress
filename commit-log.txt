@@ -53,3 +53,5 @@ Commit tracking file for sequential commits
 
 27: chore: add .gitattributes file - Added .gitattributes file for consistent line endings
 
+28: fix: correct pagination offset bug - Fixed pagination offset calculation that skipped first page
+
