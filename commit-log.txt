@@ -141,3 +141,5 @@ Commit tracking file for sequential commits
 
 71: feat: add multi-language support - Added multi-language support with i18n framework
 
+72: refactor: extract API client class - Extracted API client into a reusable singleton class
+
