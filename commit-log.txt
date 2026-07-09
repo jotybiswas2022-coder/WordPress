@@ -41,3 +41,5 @@ Commit tracking file for sequential commits
 
 21: chore: update README documentation - Updated README with installation and configuration instructions
 
+22: fix: correct timezone handling - Fixed timezone handling to use UTC for database storage
+
