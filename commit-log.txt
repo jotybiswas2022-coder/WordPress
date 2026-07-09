@@ -105,3 +105,5 @@ Commit tracking file for sequential commits
 
 53: feat: add loading skeleton component - Added loading skeleton component for async content
 
+54: refactor: migrate to async/await - Migrated callback-based code to async/await pattern
+
