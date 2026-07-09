@@ -189,3 +189,5 @@ Commit tracking file for sequential commits
 
 95: feat: add bulk email sender - Added bulk email sender with rate limiting
 
+96: refactor: simplify route definitions - Simplified route definitions using resourceful routing
+
