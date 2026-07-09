@@ -169,3 +169,5 @@ Commit tracking file for sequential commits
 
 85: fix: resolve tab sync conflicts - Fixed tab sync conflicts in multi-tab scenarios
 
+86: feat: implement data import wizard - Implemented data import wizard with validation steps
+
