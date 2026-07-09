@@ -115,3 +115,5 @@ Commit tracking file for sequential commits
 
 58: fix: correct modal z-index stacking - Fixed modal z-index stacking with overlaying elements
 
+59: feat: add rate limiting middleware - Added rate limiting middleware to prevent API abuse
+
