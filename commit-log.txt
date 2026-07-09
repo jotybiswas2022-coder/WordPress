@@ -129,3 +129,5 @@ Commit tracking file for sequential commits
 
 65: feat: add avatar cropping tool - Added avatar cropping tool with aspect ratio presets
 
+66: refactor: simplify state management - Simplified state management by removing redundant stores
+
