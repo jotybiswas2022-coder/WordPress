@@ -65,3 +65,5 @@ Commit tracking file for sequential commits
 
 33: chore: remove console.log statements - Removed debug console.log statements from production code
 
+34: fix: correct mobile menu behavior - Fixed mobile menu not closing on navigation
+
