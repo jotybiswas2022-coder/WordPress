@@ -157,3 +157,5 @@ Commit tracking file for sequential commits
 
 79: fix: resolve date picker localization - Fixed date picker localization for right-to-left languages
 
+80: feat: implement push notifications - Implemented push notifications using Service Workers
+
