@@ -49,3 +49,5 @@ Commit tracking file for sequential commits
 
 25: fix: resolve double scrollbar issue - Fixed double scrollbar appearing on Windows browsers
 
+26: feat: add notification sound toggle - Added toggle for notification sounds in user preferences
+
