@@ -149,3 +149,5 @@ Commit tracking file for sequential commits
 
 75: chore: add security policy - Added security policy for vulnerability reporting
 
+76: fix: correct email validation regex - Fixed email validation regex rejecting valid addresses
+
