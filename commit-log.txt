@@ -77,3 +77,5 @@ Commit tracking file for sequential commits
 
 39: chore: update LICENSE file - Updated LICENSE file to MIT license
 
+40: fix: correct URL encoding in links - Fixed URL encoding breaking special characters in links
+
