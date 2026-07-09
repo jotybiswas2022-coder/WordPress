@@ -197,3 +197,5 @@ Commit tracking file for sequential commits
 
 99: chore: update CONTRIBUTING.md - Updated CONTRIBUTING.md with detailed setup guide
 
+100: fix: correct search highlighting - Fixed search result highlighting with special characters
+
