@@ -43,3 +43,5 @@ Commit tracking file for sequential commits
 
 22: fix: correct timezone handling - Fixed timezone handling to use UTC for database storage
 
+23: feat: implement drag-and-drop file upload - Implemented drag-and-drop file upload with progress indicators
+
