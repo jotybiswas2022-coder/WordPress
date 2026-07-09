@@ -25,3 +25,5 @@ Commit tracking file for sequential commits
 
 13: fix: resolve session timeout issue - Fixed session timeout not being properly handled on AJAX requests
 
+14: feat: implement file upload progress bar - Implemented file upload progress bar using XMLHttpRequest
+
