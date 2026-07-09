@@ -143,3 +143,5 @@ Commit tracking file for sequential commits
 
 72: refactor: extract API client class - Extracted API client into a reusable singleton class
 
+73: fix: resolve websocket reconnection - Fixed WebSocket reconnection not retrying on failure
+
