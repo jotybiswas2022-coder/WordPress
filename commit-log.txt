@@ -103,3 +103,5 @@ Commit tracking file for sequential commits
 
 52: fix: correct responsive table layout - Fixed responsive table layout on mobile devices
 
+53: feat: add loading skeleton component - Added loading skeleton component for async content
+
