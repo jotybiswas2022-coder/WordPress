@@ -207,3 +207,5 @@ Commit tracking file for sequential commits
 
 104: feat: implement data dashboard - Implemented data dashboard with interactive charts
 
+105: chore: add SECURITY.md - Added SECURITY.md for security disclosure process
+
