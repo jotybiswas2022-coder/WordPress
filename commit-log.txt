@@ -147,3 +147,5 @@ Commit tracking file for sequential commits
 
 74: feat: implement rich text editor - Implemented rich text editor with image embedding
 
+75: chore: add security policy - Added security policy for vulnerability reporting
+
