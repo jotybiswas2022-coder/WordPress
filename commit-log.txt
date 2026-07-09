@@ -33,3 +33,5 @@ Commit tracking file for sequential commits
 
 17: feat: add breadcrumb navigation - Added breadcrumb navigation component with schema markup
 
+18: refactor: optimize image loading - Optimized image loading with lazy loading and responsive images
+
