@@ -183,3 +183,5 @@ Commit tracking file for sequential commits
 
 92: feat: implement scheduled tasks - Implemented scheduled tasks with cron expression support
 
+93: chore: add dependabot config - Added Dependabot configuration for automated updates
+
