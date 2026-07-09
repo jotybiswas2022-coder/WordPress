@@ -187,3 +187,5 @@ Commit tracking file for sequential commits
 
 94: fix: correct color contrast ratios - Fixed color contrast ratios for WCAG compliance
 
+95: feat: add bulk email sender - Added bulk email sender with rate limiting
+
