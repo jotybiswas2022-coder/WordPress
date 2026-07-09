@@ -37,3 +37,5 @@ Commit tracking file for sequential commits
 
 19: fix: patch memory leak in websockets - Fixed memory leak in WebSocket connections on page unload
 
+20: feat: add CSV export functionality - Added CSV export functionality with custom column selection
+
