@@ -199,3 +199,5 @@ Commit tracking file for sequential commits
 
 100: fix: correct search highlighting - Fixed search result highlighting with special characters
 
+101: feat: add dynamic form builder - Added dynamic form builder with drag-and-drop fields
+
