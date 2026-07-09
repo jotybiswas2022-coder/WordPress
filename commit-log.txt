@@ -97,3 +97,5 @@ Commit tracking file for sequential commits
 
 49: fix: resolve cookie expiration issue - Fixed cookie expiration not being set correctly
 
+50: feat: add data export preview - Added data export preview before final download
+
