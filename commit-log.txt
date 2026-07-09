@@ -135,3 +135,5 @@ Commit tracking file for sequential commits
 
 68: feat: implement content versioning - Implemented content versioning with diff comparison
 
+69: chore: add issue templates - Added issue templates for bug reports and feature requests
+
