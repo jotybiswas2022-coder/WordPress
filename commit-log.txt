@@ -127,3 +127,5 @@ Commit tracking file for sequential commits
 
 64: fix: correct validation error messages - Fixed validation error messages not being user-friendly
 
+65: feat: add avatar cropping tool - Added avatar cropping tool with aspect ratio presets
+
