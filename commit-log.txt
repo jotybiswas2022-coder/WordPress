@@ -67,3 +67,5 @@ Commit tracking file for sequential commits
 
 34: fix: correct mobile menu behavior - Fixed mobile menu not closing on navigation
 
+35: feat: add batch delete functionality - Added batch delete functionality with confirmation dialog
+
