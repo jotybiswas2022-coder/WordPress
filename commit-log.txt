@@ -39,3 +39,5 @@ Commit tracking file for sequential commits
 
 20: feat: add CSV export functionality - Added CSV export functionality with custom column selection
 
+21: chore: update README documentation - Updated README with installation and configuration instructions
+
