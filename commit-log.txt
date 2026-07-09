@@ -159,3 +159,5 @@ Commit tracking file for sequential commits
 
 80: feat: implement push notifications - Implemented push notifications using Service Workers
 
+81: chore: add funding.yml - Added funding.yml for GitHub Sponsors configuration
+
