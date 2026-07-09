@@ -173,3 +173,5 @@ Commit tracking file for sequential commits
 
 87: chore: add codeowners file - Added CODEOWNERS file for automatic review assignments
 
+88: fix: correct sidebar collapse behavior - Fixed sidebar collapse behavior on narrow screens
+
