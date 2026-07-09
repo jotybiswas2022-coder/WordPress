@@ -137,3 +137,5 @@ Commit tracking file for sequential commits
 
 69: chore: add issue templates - Added issue templates for bug reports and feature requests
 
+70: fix: correct OAuth token refresh - Fixed OAuth token refresh failing on 401 responses
+
