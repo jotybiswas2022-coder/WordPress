@@ -161,3 +161,5 @@ Commit tracking file for sequential commits
 
 81: chore: add funding.yml - Added funding.yml for GitHub Sponsors configuration
 
+82: fix: correct font loading strategy - Fixed font loading strategy causing flash of unstyled text
+
